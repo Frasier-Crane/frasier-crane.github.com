@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://frasier-crane.github.com/atom.xml" rel="self"/>
-  <link href="http://frasier-crane.github.com/"/>
-  <updated>2013-02-10T17:44:27+01:00</updated>
-  <id>http://frasier-crane.github.com/</id>
+  <title><![CDATA[Ne cede malis]]></title>
+  <link href="http://Frasier-Crane.github.com/atom.xml" rel="self"/>
+  <link href="http://Frasier-Crane.github.com/"/>
+  <updated>2013-02-10T17:56:07+01:00</updated>
+  <id>http://Frasier-Crane.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Frasier Crane]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hallo Welt]]></title>
-    <link href="http://frasier-crane.github.com/blog/2013/02/10/hallo-welt/"/>
+    <link href="http://Frasier-Crane.github.com/blog/2013/02/10/hallo-welt/"/>
     <updated>2013-02-10T13:01:00+01:00</updated>
-    <id>http://frasier-crane.github.com/blog/2013/02/10/hallo-welt</id>
+    <id>http://Frasier-Crane.github.com/blog/2013/02/10/hallo-welt</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

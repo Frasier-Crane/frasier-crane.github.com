@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://frasier-crane.github.com/sitemap.xml 
+Sitemap: http://Frasier-Crane.github.com/sitemap.xml 
