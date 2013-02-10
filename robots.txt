@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://frasier-crane.github.com/sitemap.xml 
